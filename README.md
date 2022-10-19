@@ -7,7 +7,7 @@ Desafio 01 do Stage 02 do Bootcamp Explorer
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-planos-futuros">Planos Futuros</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clock1-planos-futuros">Planos Futuros</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -34,7 +34,7 @@ O Projeto "Móveis Customizados" consiste em uma land page simples desenvolvida 
 
 O Objetivo do exercicio é consertar um código quebrado com base em um layout do figma.
 
-## 🔖 Planos Futuros
+## :clock1: Planos Futuros
 
 Utilizar o projeto como objeto de estudo e implementar novos conceitos aprendidos durante as aulas do bootcamp, de maneira que façam sentido para o código.
 
@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por Vitor Sousa 🚀🚀
+Feito com :heart: por Vitor Sousa 🚀🚀
