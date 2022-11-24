@@ -1,7 +1,7 @@
-<h1 align="center"> Explorer Challenges 01</h1>
+<h1 align="center"> Explorer Challenges "Móveis Customizados"</h1>
 
 <p align="center">
-Desafio 01 do Stage 02 do Bootcamp Explorer
+Desafio do Stage 02 do Programa Explorer da Rocketseat
 </p>
 
 <p align="center">
@@ -23,25 +23,25 @@ Desafio 01 do Stage 02 do Bootcamp Explorer
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
+  - HTML
+  - CSS
 
 ## 💻 Projeto
 
-O Projeto "Móveis Customizados" consiste em uma land page simples desenvolvida logo após as primeiras aulas de introdução ao HTML e CSS.
+- O Projeto "Móveis Customizados" consiste em uma land page simples desenvolvida logo após as primeiras aulas de introdução ao HTML e CSS.
 
-O Objetivo do exercicio é consertar um código quebrado com base em um layout do figma.
+- O Objetivo desse exercicio é consertar um código quebrado com base em um layout do figma.
 
-## :clock1: Planos Futuros
+## 🕐 Planos Futuros
 
-Utilizar o projeto como objeto de estudo e implementar novos conceitos aprendidos durante as aulas do bootcamp, de maneira que façam sentido para o código.
+- Utilizar o projeto como objeto de estudo e implementar novos conceitos aprendidos durante as aulas do bootcamp, de maneira que façam sentido para o código.
 
-## :memo: Licença
+## 📝 Licença
 
-Esse projeto está sob a licença MIT.
+- Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com :heart: por Vitor Sousa 🚀🚀
+🚀 Feito com ❤️ por Vitor Sousa 🚀
