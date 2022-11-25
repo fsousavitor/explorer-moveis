@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Challenges "Móveis Customizados"</h1>
+<h1 align="center"> Explorer Challenges 01 - "Móveis Customizados"</h1>
 
 <p align="center">
 Desafio do Stage 02 do Programa Explorer da Rocketseat
@@ -32,7 +32,7 @@ Desafio do Stage 02 do Programa Explorer da Rocketseat
 
 - O Projeto "Móveis Customizados" consiste em uma land page simples desenvolvida logo após as primeiras aulas de introdução ao HTML e CSS.
 
-- O Objetivo desse exercicio é consertar um código quebrado com base em um layout do figma.
+- O Objetivo deste exercicio é reparar um código quebrado com base em um layout do figma.
 
 ## 🕐 Planos Futuros
 
