@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Challenges 01 - "Móveis Customizados"</h1>
+<h1 align="center"> Explorer Challenges - "Móveis Customizados"</h1>
 
 <p align="center">
 Desafio do Stage 02 do Programa Explorer da Rocketseat
